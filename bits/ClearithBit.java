@@ -17,5 +17,7 @@ public class ClearithBit {
 				int mask=1<<i;
 				
 				System.out.println(~(mask)&n);
+
+				//I am herex
 	}
 }
