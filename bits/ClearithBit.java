@@ -18,6 +18,8 @@ public class ClearithBit {
 				
 				System.out.println(~(mask)&n);
 
-				//I am herex
-	}
+			
+
 }
+	}
+
